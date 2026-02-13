@@ -44,8 +44,8 @@ Here are the languages and systems I command. I don't just "know" them; I weapon
 Here are some of the "rancangan berguna" (useful designs) and "tools bermanfaat" (beneficial tools) I have forged.
 
 #### 🔥 DDoS Related (Defense & Simulation)
-- **`ArmorPlate` (Go)**: A high-performance L7/L4 DDoS mitigation tool. It acts as a reverse proxy that intelligently filters malicious traffic using behavioral analysis before it reaches the origin server.
-- **`TempestEngine` (Python)**: A controlled network stress-testing suite designed for security researchers to validate their firewall rules. *Strictly for authorized testing environments.*
+- **`ArmorPlate` (Python)**: A high-performance L7/L4 DDoS mitigation tool. It acts as a reverse proxy that intelligently filters malicious traffic using behavioral analysis before it reaches the origin server.
+- **`TempestEngine` (Go)**: A controlled network stress-testing suite designed for security researchers to validate their firewall rules. *Strictly for authorized testing environments.*
 
 #### 🛠️ Useful Tools & Utilities
 - **`NetHooks` (Go + JS)**: A lightweight API gateway with built-in rate limiting and anomaly detection, providing a simple dashboard for monitoring traffic spikes in real-time.
