@@ -69,7 +69,7 @@ Here are some of the "rancangan berguna" (useful designs) and "tools bermanfaat"
 
 ### 📡 Connect with the Guardian
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourdiscordid) <!-- Ganti dengan link discord-mu jika ada -->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4PXGt9u7rp) <!-- Ganti dengan link discord-mu jika ada -->
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- Ganti dengan email yang kamu inginkan -->
 
 ---
