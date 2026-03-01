@@ -127,11 +127,11 @@ If you appreciate my work, you can support the project using **Monero**.
 83EzZCumdrRHcHF4pLd4uJ6hHpzwB81eXKfJktn6s4PQ8gZSqjtuZEsTSksDXdhn2jQp8pD2fiE1GTf5ysWBZWh867FCNBC
 ### Monero QR Code
 
-[ TARUH KODE GAMBAR MONERO DI SINI ]
+[ Screenshot_2026-03-01-13-25-56-06.jpg ]
 
 Contoh:
 
-<img src="LINK-GAMBAR-QR-MONERO-KAMU" width="200">
+<img src="Screenshot_2026-03-01-13-25-56-06.jpg" width="200">
 
 ---
 
