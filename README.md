@@ -54,19 +54,6 @@ Here are some of the "rancangan berguna" (useful designs) and "tools bermanfaat"
 
 ---
 
-
-### 💰 Donate
-
-Love my project? Consider buying me a coffee (or a bunch of pixels) with Monero. Every little bit helps keep the motivation high and the servers running! ☕
-
-XMR Address:
-
-```
-83EzZCumdrRHcHF4pLd4uJ6hHpzwB81eXKfJktn6s4PQ8gZSqjtuZEsTSksDXdhn2jQp8pD2fiE1GTf5ysWBZWh867FCNBC
-```
-
-Click the copy button above or scan the QR code below (if you add one).
-
 ### 📊 GitHub Battle Stats
 
 <p align="center">
@@ -86,6 +73,19 @@ Click the copy button above or scan the QR code below (if you add one).
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zhedder409@protonmail.com) <!-- Ganti dengan email yang kamu inginkan -->
 
 ---
+
+
+### 💰 Donate
+
+Love my project? Consider buying me a coffee (or a bunch of pixels) with Monero. Every little bit helps keep the motivation high and the servers running! ☕
+
+XMR Address:
+
+```
+83EzZCumdrRHcHF4pLd4uJ6hHpzwB81eXKfJktn6s4PQ8gZSqjtuZEsTSksDXdhn2jQp8pD2fiE1GTf5ysWBZWh867FCNBC
+```
+
+Click the copy button if you want to donate
 
 ### ⚠️ The Guardian's Oath
 
