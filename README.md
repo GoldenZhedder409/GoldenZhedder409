@@ -123,9 +123,8 @@ Educational simulation for blue-team training.
 
 If you appreciate my work, you can support the project using **Monero**.
 
-### Monero Wallet
+### Monero Wallet & Monero QR Code
 83EzZCumdrRHcHF4pLd4uJ6hHpzwB81eXKfJktn6s4PQ8gZSqjtuZEsTSksDXdhn2jQp8pD2fiE1GTf5ysWBZWh867FCNBC
-### Monero QR Code
 My wallet QR:
 
 <img src="Screenshot_2026-03-01-13-25-56-06.jpg" width="200">
