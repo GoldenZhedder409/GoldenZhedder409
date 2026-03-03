@@ -7,6 +7,12 @@ Theme: Armed Guardian of the Digital Realm
 <h3 align="center">🔰 GoldenZhedder409 | Special Armed Guardian 🔰</h3>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Me-Golder409-boldred?style=for-the-badge" />
+
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ethical+Enforcer;Security+Researcher;Architect+of+Useful+Tools;Cyber+Defense+Engineer;Your+Shield+in+the+Dark" />
 </p>
 
