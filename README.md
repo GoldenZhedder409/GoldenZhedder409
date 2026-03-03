@@ -8,7 +8,7 @@ Theme: Armed Guardian of the Digital Realm
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Me-Golder409-boldred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Me-Golder409-red?style=for-the-badge" />
 
 </p>
 
