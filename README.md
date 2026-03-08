@@ -118,7 +118,7 @@ Educational simulation for blue-team training.
 </a>
 
 <a href="t.me/GolDer409">
-<img src="https://img.shields.io/badge/Report_Bug_/_Talk-Online-ff4444?style=for-the-badge&logo=pornhub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Report_Bug_/_Talk-Online-ff4444?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
