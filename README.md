@@ -117,8 +117,8 @@ Educational simulation for blue-team training.
 <img src="https://img.shields.io/badge/ProtonMail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
-<a href="https://yourwebsite.com/report">
-<img src="https://img.shields.io/badge/Report_Bug_/_Talk-Online-ff4444?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+<a href="t.me/GolDer409">
+<img src="https://img.shields.io/badge/Report_Bug_/_Talk-Online-ff4444?style=for-the-badge&logo=pornhub&logoColor=white"/>
 </a>
 
 </p>
