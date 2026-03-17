@@ -113,7 +113,7 @@ Educational simulation for blue-team training.
 <img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:Zhedder409@protonmail.com">
+<a href="mailto:GoldenZhedder409@protonmail.com">
 <img src="https://img.shields.io/badge/ProtonMail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
